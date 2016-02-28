@@ -1,0 +1,26 @@
+_repo: Life-of-Luther_7970
+creator:
+  author:
+    agent_name: Köstlin, Julius
+    aliases:
+    - Kostlin, Julius
+    - Julius Köstlin
+    - Koestlin, Julius
+    birthdate: 1826
+    deathdate: 1902
+    gutenberg_agent_id: '2605'
+    url: http://www.gutenberg.org/2009/agents/2605
+description: Cover -- Contents.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Luther, Martin, 1483-1546'
+title: Life of Luther
+url: http://www.gutenberg.org/ebooks/7970
