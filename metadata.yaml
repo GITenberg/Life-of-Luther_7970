@@ -28,5 +28,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'BR'
 - !lcsh 'Luther, Martin, 1483-1546'
+- GITenberg
 title: Life of Luther
 url: http://www.gutenberg.org/ebooks/7970
